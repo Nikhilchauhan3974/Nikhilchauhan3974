@@ -6,9 +6,11 @@
   </picture>
 
   <h1>Nikhil Chauhan</h1>
-  <p><b>BTech CSE Student @ KL University, Vijayawada</b><br>
-  Full-Stack Engineering · AI & Algorithms · Software Architecture</p>
-  
+  <p>
+    <b>BTech CSE Student @ KL University, Vijayawada</b><br>
+    Full-Stack Engineering · AI & Algorithms · Software Architecture
+  </p>
+
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Nikhilchauhan3974)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/nikhil-chauhan-b7767b360)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:2500032685.cse1@gmail.com)
@@ -16,7 +18,8 @@
 
 <br>
 
-> **I build practical software across frontend, backend, databases, APIs, and AI systems.**  
+> **I build practical software across frontend, backend, databases, APIs, and AI systems.**
+>
 > *I enjoy turning complex ideas into scalable, production-ready applications and learning by building.*
 
 ## 👤 About Me
@@ -47,36 +50,37 @@
 
 > ### 📋 Workflow Approval & Review Portal
 > A role-based workflow system for submitting, reviewing, and approving work items.
-> 
-> **Stack:** React.js, Vite, Spring Boot 3, Java 17, FastAPI, Node.js, PostgreSQL, MongoDB, JWT, Docker Compose  
+>
+> **Stack:** React.js, Vite, Spring Boot 3, Java 17, FastAPI, Node.js, PostgreSQL, MongoDB, JWT, Docker Compose
+>
 > **Roles:** Admin · Reviewer · Approver · Employee
 
 <br>
 
 > ### 🏥 WellAxis
 > A healthcare platform concept connecting hospitals, clinics, doctors, and patients through role-based workflows, medical history, prescriptions, and appointments.
-> 
+>
 > **Stack:** React/TypeScript, Backend APIs, PostgreSQL/Neon
 
 <br>
 
 > ### 🚁 Drone Routing AI
 > An AI/algorithm project for route planning around obstacles with selectable search strategies.
-> 
+>
 > **Algorithms:** BFS · DFS · A* · Greedy Best-First Search
 
 <br>
 
 > ### 💳 FraudFlow
 > A Streamlit-based credit-card fraud detection application using a machine-learning workflow.
-> 
+>
 > **Stack:** Python, Streamlit, pandas, scikit-learn, joblib
 
 <br>
 
 > ### 🐚 Shellforge
 > A Unix-style shell project written in C, covering shell fundamentals such as tokenization, command processing, and build tooling.
-> 
+>
 > **Stack:** C · Makefile · Unix/Linux concepts
 
 ---
@@ -89,15 +93,11 @@ Backend         → Spring Boot / FastAPI / Node.js
 Data            → PostgreSQL / Neon / MongoDB
 AI & Algorithms → Search / CSP / Probability / ML
 Infrastructure  → Docker / Compose / API Integration
+```
 
-📫 Connect   
-🐙 GitHub: https://github.com/Nikhilchauhan3974
+---
 
-💼 LinkedIn: https://in.linkedin.com/in/nikhil-chauhan-b7767b360
-
-✉️ Email: 2500032685.cse1@gmail.com
-
-<h2 align="center">📊 GitHub Contributions</h2>
+## 📊 GitHub Contributions
 
 <p align="center">
   <picture>
@@ -117,5 +117,24 @@ Infrastructure  → Docker / Compose / API Integration
   </picture>
 </p>
 
+---
 
+## 📫 Connect With Me
 
+<p align="center">
+
+🐙 <a href="https://github.com/Nikhilchauhan3974">GitHub</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+💼 <a href="https://in.linkedin.com/in/nikhil-chauhan-b7767b360">LinkedIn</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+✉️ <a href="mailto:2500032685.cse1@gmail.com">Email</a>
+
+</p>
+
+<br>
+
+<div align="center">
+
+**Building • Learning • Experimenting • Improving**
+
+</div>
