@@ -1,0 +1,149 @@
+<svg width="1180" height="610" viewBox="0 0 1180 610" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Professional GitHub profile banner for Nikhilchauhan3974 with terminal-style identity and system information in light theme">
+  <defs>
+    <linearGradient id="bgGradLight" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="55%" stop-color="#F8FAFC"/>
+      <stop offset="100%" stop-color="#EEF6FF"/>
+      <animate attributeName="x2" values="1;0.85;1" dur="16s" repeatCount="indefinite"/>
+      <animate attributeName="y1" values="0;0.12;0" dur="16s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="accentLight" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="50%" stop-color="#06B6D4"/>
+      <stop offset="100%" stop-color="#10B981"/>
+      <animate attributeName="x1" values="0;1;0" dur="13s" repeatCount="indefinite"/>
+    </linearGradient>
+    <pattern id="gridLight" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#94A3B8" stroke-opacity="0.3" stroke-width="0.8"/>
+    </pattern>
+    <filter id="softGlowLight" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="frameClipLight">
+      <rect x="20" y="20" width="1140" height="570" rx="22"/>
+    </clipPath>
+  </defs>
+
+  <rect x="20" y="20" width="1140" height="570" rx="22" fill="url(#bgGradLight)"/>
+  <rect x="20" y="20" width="1140" height="570" rx="22" fill="url(#gridLight)" opacity="0.55"/>
+
+  <g clip-path="url(#frameClipLight)">
+    <circle cx="190" cy="98" r="230" fill="#2563EB" opacity="0.08">
+      <animate attributeName="cx" values="170;220;170" dur="20s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1010" cy="530" r="250" fill="#06B6D4" opacity="0.06">
+      <animate attributeName="cy" values="540;500;540" dur="22s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <rect x="36" y="36" width="1108" height="538" rx="18" fill="#FFFFFF" fill-opacity="0.34" stroke="url(#accentLight)" stroke-opacity="0.45"/>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.35s" fill="freeze"/>
+    <rect x="68" y="72" width="420" height="466" rx="16" fill="#FFFFFF" fill-opacity="0.45" stroke="#0EA5E9" stroke-opacity="0.42"/>
+    <rect x="516" y="72" width="596" height="466" rx="16" fill="#FFFFFF" fill-opacity="0.4" stroke="#6366F1" stroke-opacity="0.36"/>
+
+    <rect x="68" y="72" width="420" height="48" rx="16" fill="#E2E8F0" fill-opacity="0.88"/>
+    <circle cx="94" cy="96" r="6" fill="#EF4444"/>
+    <circle cx="114" cy="96" r="6" fill="#F59E0B"/>
+    <circle cx="134" cy="96" r="6" fill="#22C55E"/>
+    <text x="278" y="101" fill="#0F172A" text-anchor="middle" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">nikhilchauhan3974@profile:~   [ ONLINE ]</text>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" begin="0.25s" dur="0.45s" fill="freeze"/>
+      <text x="278" y="158" text-anchor="middle" fill="#0284C7" font-size="13" letter-spacing="2" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">VISUAL.MAP</text>
+      <g fill="#0F766E" font-size="8.6" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" text-anchor="middle" filter="url(#softGlowLight)">
+        <text x="278" y="208" class="ascii">          .·:+*####*+:·.</text>
+        <text x="278" y="220" class="ascii">       .:+*#%%%%%%%%#*+:. </text>
+        <text x="278" y="232" class="ascii">      :+#%%%%%@@%%%%%%#+: </text>
+        <text x="278" y="244" class="ascii">     :*%%%@@@%%@@@%%%%%*: </text>
+        <text x="278" y="256" class="ascii">     +%%@@@%*++*%@@@%%%+  </text>
+        <text x="278" y="268" class="ascii">    .#%@@%+.    .+%@@%#.  </text>
+        <text x="278" y="280" class="ascii">    .#%@%:   ..   :%@%#.  </text>
+        <text x="278" y="292" class="ascii">    .#%@%:  :##:  :%@%#.  </text>
+        <text x="278" y="304" class="ascii">    .#%@@+. .--. .+@@%#.  </text>
+        <text x="278" y="316" class="ascii">     +%@@@*:.  .:*@@@%+   </text>
+        <text x="278" y="328" class="ascii">     :*%%%%#*++*#%%%%*:   </text>
+        <text x="278" y="340" class="ascii">      :+#%%%%%%%%%%#+:    </text>
+        <text x="278" y="352" class="ascii">       .:+*######*+:.     </text>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="6s" repeatCount="indefinite"/>
+      </g>
+      <rect x="148" y="188" width="260" height="176" fill="none" stroke="#0284C7" stroke-opacity="0.24">
+        <animate attributeName="opacity" values="0.1;0.28;0.1" dur="5s" repeatCount="indefinite"/>
+      </rect>
+      <line x1="148" y1="205" x2="408" y2="205" stroke="#0284C7" stroke-opacity="0.26" stroke-width="1">
+        <animate attributeName="y1" values="188;364;188" dur="7s" repeatCount="indefinite"/>
+        <animate attributeName="y2" values="188;364;188" dur="7s" repeatCount="indefinite"/>
+      </line>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" begin="0.6s" dur="0.45s" fill="freeze"/>
+      <text x="278" y="414" text-anchor="middle" fill="#0F172A" font-size="18" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">PROFILE / ENGINEERING</text>
+      <text x="278" y="442" text-anchor="middle" fill="#0369A1" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Technical Professional</text>
+      <text x="278" y="466" text-anchor="middle" fill="#475569" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Focused on building maintainable software systems</text>
+      <text x="278" y="500" text-anchor="middle" fill="#047857" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">~/profile $ build --ship</text>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" begin="0.4s" dur="0.45s" fill="freeze"/>
+      <rect x="516" y="72" width="596" height="48" rx="16" fill="#E2E8F0" fill-opacity="0.92"/>
+      <text x="814" y="101" fill="#0F172A" text-anchor="middle" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">SYSTEM.INFO   nikhilchauhan3974@developer:~$ ./profile.sh</text>
+    </g>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" begin="0.75s" dur="0.45s" fill="freeze"/>
+        <text x="632" y="164" fill="#0284C7" font-size="13" text-anchor="end">&gt; NAME</text>
+        <text x="654" y="164" fill="#0F172A" font-size="22" font-weight="700">Nikhilchauhan3974</text>
+
+        <text x="632" y="198" fill="#0284C7" font-size="13" text-anchor="end">&gt; HEADLINE</text>
+        <text x="654" y="198" fill="#1E293B" font-size="15">Professional GitHub Profile</text>
+
+        <text x="632" y="232" fill="#0284C7" font-size="13" text-anchor="end">&gt; ROLE</text>
+        <text x="654" y="232" fill="#1E293B" font-size="15">Technical Professional</text>
+
+        <text x="632" y="266" fill="#0284C7" font-size="13" text-anchor="end">&gt; FOCUS</text>
+        <text x="654" y="266" fill="#1E293B" font-size="15">Software Engineering · Continuous Learning</text>
+
+        <text x="632" y="300" fill="#0284C7" font-size="13" text-anchor="end">&gt; LOCATION</text>
+        <text x="654" y="300" fill="#64748B" font-size="15">Not specified</text>
+      </g>
+
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;1" begin="1.05s" dur="0.45s" fill="freeze"/>
+        <text x="814" y="342" text-anchor="middle" fill="#4F46E5" font-size="13" letter-spacing="2">STACK.SIGNALS</text>
+
+        <g transform="translate(560 356)">
+          <rect x="0" y="0" width="168" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.8" stroke="#0284C7" stroke-opacity="0.42"/>
+          <circle cx="16" cy="16" r="4" fill="#0284C7"><animate attributeName="opacity" values="0.45;1;0.45" dur="3.5s" repeatCount="indefinite"/></circle>
+          <text x="30" y="21" fill="#0F172A" font-size="12">Repositories</text>
+        </g>
+        <g transform="translate(740 356)">
+          <rect x="0" y="0" width="168" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.8" stroke="#6366F1" stroke-opacity="0.42"/>
+          <circle cx="16" cy="16" r="4" fill="#6366F1"><animate attributeName="opacity" values="0.45;1;0.45" dur="3.8s" repeatCount="indefinite"/></circle>
+          <text x="30" y="21" fill="#0F172A" font-size="12">Open Source</text>
+        </g>
+        <g transform="translate(920 356)">
+          <rect x="0" y="0" width="168" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.8" stroke="#10B981" stroke-opacity="0.42"/>
+          <circle cx="16" cy="16" r="4" fill="#10B981"><animate attributeName="opacity" values="0.45;1;0.45" dur="4.1s" repeatCount="indefinite"/></circle>
+          <text x="30" y="21" fill="#0F172A" font-size="12">Automation</text>
+        </g>
+
+        <text x="632" y="428" fill="#0284C7" font-size="13" text-anchor="end">&gt; PROJECTS</text>
+        <text x="654" y="428" fill="#1E293B" font-size="14">Profile Repository — Theme-aware profile system</text>
+
+        <text x="632" y="460" fill="#0284C7" font-size="13" text-anchor="end">&gt; LINK</text>
+        <a href="https://github.com/Nikhilchauhan3974">
+          <text x="654" y="460" fill="#0369A1" font-size="14">github.com/Nikhilchauhan3974</text>
+        </a>
+
+        <text x="814" y="506" text-anchor="middle" fill="#64748B" font-size="12">Designed for GitHub README · Self-contained SVG · SMIL animations</text>
+      </g>
+    </g>
+  </g>
+</svg>
