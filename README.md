@@ -1,36 +1,102 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img alt="Nikhil Chauhan - Developer Profile" src="./dark.svg" width="100%">
-  </picture>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Nikhil Chauhan — BTech CSE Student and Full-Stack Developer" src="dark.svg" width="100%">
+</picture>
 
-<br/>
+# Nikhil Chauhan
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nikhilchauhan3974&label=Profile%20Views&color=22D3EE&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Nikhilchauhan3974?label=Followers&style=for-the-badge&color=6366F1" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Nikhilchauhan3974?style=for-the-badge&color=10B981" alt="Stars" />
-</div>
+**BTech CSE Student @ KL University, Vijayawada** · Full-Stack Development · AI & Algorithms
 
-<br/>
+I build practical software across frontend, backend, databases, APIs and AI/algorithmic systems. I enjoy turning ideas into complete, usable applications and learning by building.
 
-## 👨‍💻 About Me
+## About
 
-Hello! I'm **Nikhil Chauhan**, an active developer and **BTech Computer Science Engineering** student at **KL University** in Vijayawada, Andhra Pradesh, India. I am highly passionate about problem-solving, building scalable backend architectures, and integrating intelligent systems.
+- 🎓 BTech Computer Science & Engineering — KL University, Vijayawada
+- 💻 Interested in full-stack engineering, backend systems, databases and AI/algorithms
+- 🧠 Working with graph search, adversarial search, CSP and probabilistic reasoning
+- 🛠️ Comfortable building projects across React, Spring Boot, FastAPI, Node.js and Python
+- 🗄️ Working with PostgreSQL, Neon and MongoDB
+- 🚀 Exploring Docker, system integration and production-style application architecture
 
-- 🔭 I’m currently focused on **Software Engineering**, **Data Structures & Algorithms**, and **System Design**.
-- 🧠 I have a deep interest in exploring **AI/ML** integrations within modern applications.
-- ⚡ **Fun Fact:** I approach software development like a puzzle—optimizing logic, architecture, and efficiency.
+## Featured Projects
+
+### Workflow Approval & Review Portal
+A role-based workflow system for submitting, reviewing and approving work items.
+
+**Stack:** React.js, Vite, Spring Boot 3, Java 17, FastAPI, Node.js/Express, PostgreSQL, MongoDB, JWT, Docker Compose
+
+**Roles:** Admin · Reviewer · Approver · Employee
+
+### WellAxis
+A healthcare platform concept connecting hospitals, clinics, doctors and patients through role-based workflows, medical history, prescriptions and appointments.
+
+**Stack:** React/TypeScript, backend APIs, PostgreSQL/Neon and role-based application architecture
+
+### Drone Routing AI
+An AI/algorithm project for route planning around obstacles with selectable search strategies.
+
+**Algorithms:** BFS · DFS · A* · Greedy Best-First Search
+
+### FraudFlow
+A Streamlit-based credit-card fraud detection application using a machine-learning workflow.
+
+**Stack:** Python, Streamlit, pandas, scikit-learn, joblib
+
+### Shellforge
+A Unix-style shell project written in C, covering shell fundamentals such as tokenization, command processing and build tooling.
+
+**Stack:** C · Makefile · Unix/Linux concepts
+
+### Traffic Flow Analysis
+A data-analysis project focused on traffic-flow data, exploratory data analysis and analytical visualisation.
+
+**Stack:** Python · Data Analysis · EDA
+
+## Engineering Stack
+
+**Languages**
+
+Java · Python · C · JavaScript · TypeScript · HTML · CSS
+
+**Frontend**
+
+React.js · Vite · Tailwind CSS
+
+**Backend & APIs**
+
+Spring Boot · FastAPI · Node.js · Express.js · REST APIs · JWT
+
+**Databases**
+
+PostgreSQL · Neon · MongoDB · MongoDB Atlas · pgAdmin
+
+**DevOps & Tools**
+
+Docker · Docker Compose · Git · GitHub · VS Code
+
+**Algorithms & AI**
+
+BFS · DFS · A* · GBFS · Minimax · Alpha-Beta Pruning · CSP · Bayesian Reasoning · Machine Learning
+
+## What I Like Building
+
+```text
+Frontend        → React / TypeScript / modern UI
+Backend         → Spring Boot / FastAPI / Node.js
+Data            → PostgreSQL / Neon / MongoDB
+AI & Algorithms → Search / CSP / probability / ML
+Infrastructure  → Docker / Compose / API integration
+```
+
+## Connect
+
+- GitHub: https://github.com/Nikhilchauhan3974
+- LinkedIn: https://in.linkedin.com/in/nikhil-chauhan-b7767b360
+- Email: 2500032685.cse1@gmail.com
 
 ---
 
-## ⚙️ Learning & Engineering Pipeline
-
-```mermaid
-graph LR
-    A[Full-Stack Dev] --> B[Backend Architecture]
-    B --> C[Data Structures & Algorithms]
-    C --> D[System Design]
-    D --> E[AI/ML Systems]
+<p align="center">
+  <sub>Built with curiosity, code, and continuous learning.</sub>
+</p>
