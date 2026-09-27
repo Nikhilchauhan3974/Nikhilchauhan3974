@@ -106,14 +106,14 @@ Infrastructure  → Docker / Compose / API Integration
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Nikhilchauhan3974/github-snake/output/github-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/Nikhilchauhan3974/Nikhilchauhan3974/output/github-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Nikhilchauhan3974/github-snake/output/github-snake.svg"
+      srcset="https://raw.githubusercontent.com/Nikhilchauhan3974/Nikhilchauhan3974/output/github-contribution-grid-snake.svg"
     />
     <img
-      src="https://raw.githubusercontent.com/Nikhilchauhan3974/github-snake/output/github-snake.svg"
+      src="https://raw.githubusercontent.com/Nikhilchauhan3974/Nikhilchauhan3974/output/github-contribution-grid-snake.svg"
       alt="GitHub Contribution Snake"
       width="100%"
     />
